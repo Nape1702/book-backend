@@ -39,7 +39,7 @@ class DatabaseSeeder extends Seeder
                 'author' => 'Kohei Horikoshi',
                 'published_year' => 2016,
                 'genre' => 'Action, Adventure, Comedy, Drama, Fantasy, Shounen',
-                'description' => 'My Hero Academia is a Japanese manga series written and illustrated by Koyoharu Gotouge.',
+                'description' => 'My Hero Academia is a Japanese manga series written and illustrated by Kohei Horikoshi.',
             ],
             [
                 'title' => 'One Piece',
